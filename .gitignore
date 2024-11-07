@@ -1,0 +1,11 @@
+# Node.js
+node_modules
+.env
+
+# 로그 파일
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# 빌드 폴더 (프론트엔드 빌드 파일이 생성되는 경우)
+frontend/build
