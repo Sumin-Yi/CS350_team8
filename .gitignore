@@ -9,3 +9,6 @@ yarn-error.log
 
 # 빌드 폴더 (프론트엔드 빌드 파일이 생성되는 경우)
 frontend/build
+
+# macOS system files
+.DS_Store
